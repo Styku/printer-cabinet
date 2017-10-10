@@ -21,3 +21,5 @@ was done with Prusa i3 MK2 in mind, but of course will work with any printer of 
 - Digital smoke sensor, such as MQ-2
 - Solid state relay 
 - AC250V, >=10A relay module
+
+![alt text](https://github.com/Styku/printer-cabinet/blob/master/doc/img/printer-enclosure.jpg "Printer enclosure")
