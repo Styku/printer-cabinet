@@ -1,0 +1,3 @@
+[submodule "octoprint-plugins/OctoPrint-Tempsensor"]
+	path = octoprint-plugins/OctoPrint-Tempsensor
+	url = https://github.com/Styku/OctoPrint-Tempsensor
